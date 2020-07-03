@@ -6,8 +6,8 @@
 </p>
 <br>
 <p align="center" style="background: red">
-  Web Developer by day, Rustacean by night - if I'm not rambling about Rust or<br />
-  Vim on <a href="https://bennetthardwick.com/">my website</a>, you'll probably find me working on<br />
+  Web Developer by day, Rustacean by night - if I'm not rambling about Rust or Vim<br />
+  on <a href="https://bennetthardwick.com/">my website</a>, you'll probably find me working on<br />
   something Rust related in one the repos down below.
 </p>
 <br>
