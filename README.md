@@ -1,20 +1,16 @@
 <h1 align="center">Hello, Bennett Here! 👋</h1>
 
 <p align="center" style="background: red">
-I'm a Software Engineer working on building a video editor in the browser at [clipchamp](https://github.com/clipchamp)
+I'm a Software Engineer working on building a video editor<br />
+  in the browser at <a href="https://github.com/clipchamp">clipchamp</a>.
 </p>
-
-<!--
-**bennetthardwick/bennetthardwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p align="center" style="background: red">
+  Web Developer by day, Rustacean by night - if I'm not rambling about Rust or<br />
+  Vim on <a href="https://bennetthardwick.com/">my website</a>, you'll probably find<br />
+  me working on something Rust related in one the repos down below.
+</p>
+<br>
+<p align="center">
+  If you're into Rust or just want to chat, <a href="mailto:me@bennetthardwick.com">send me an email!</a>
+</p>
