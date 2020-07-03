@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hello, Bennett Here! 👋</h1>
+
+<p align="center" style="background: red">
+I'm a Software Engineer working on building a video editor in the browser at [clipchamp](https://github.com/clipchamp)
+</p>
 
 <!--
 **bennetthardwick/bennetthardwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
