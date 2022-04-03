@@ -1,16 +1,11 @@
-<h1 align="center">Hello, Bennett Here! 👋</h1>
-
-<p align="center" style="background: red">
-  I'm a Software Engineer working on building a video editor<br />
-  in the browser at <a href="https://github.com/clipchamp">clipchamp</a>.
-</p>
-<br>
-<p align="center" style="background: red">
-  Web Developer by day, Rustacean by night - if I'm not rambling about<br />
-  Rust or Vim on <a href="https://bennetthardwick.com/">my website</a>, you'll probably find me working on<br />
-  something Rust related in one the repos down below.
-</p>
-<br>
 <p align="center">
-  If you're into Rust or just want to chat, <a href="mailto:me@bennetthardwick.com">send me an email!</a>
+  <samp>
+    <a href="https://bennetthardwick.com">website</a> .  
+    <a href="https://bennetthardwick.com/garden">notes</a> . 
+    <a href="https://bennetthardwick.com/now">now</a> . 
+    <a href="https://bennetthardwick.com/projects">projects</a> . 
+    <a href="https://cipherstash.com">work</a> .
+    <a href="https://bennetthardwick.com/">twitter</a> .
+    <a href="https://www.linkedin.com/in/bennetthardwick/">linkedin</a>
+  </samp>
 </p>
